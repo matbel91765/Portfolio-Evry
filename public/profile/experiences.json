@@ -1,6 +1,18 @@
 {
     "experiences": [
         {
+            "title": "Alternance",
+            "subtitle": "ADPT",
+            "workType": "Développeur Web",
+            "workDescription": [
+                "Développement d'un site internet afin de promouvoir l'association",
+                "Développement d’un système de messagerie afin de traiter les demandes depuis le site internet",
+                "Gestion de base de donnée",
+                "Développement d’un logiciel de traitement des dossiers de l’association"
+            ],
+            "dateText": "10/2022 – 03/2023"
+        },
+        {
             "title": "Freelance",
             "subtitle": "Développeur",
             "workType": "Freelance",
