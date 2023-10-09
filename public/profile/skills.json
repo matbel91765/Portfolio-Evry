@@ -26,16 +26,12 @@
                     "title": "MySQL"
                 },
                 {
-                    "icon": "images/skills/mysql.png",
-                    "title": "PostGreeSQL"
+                    "icon": "images/skills/postgresql.png",
+                    "title": "PostGreSQL"
                 },
                 {
-                    "icon": "images/skills/mysql.png",
+                    "icon": "images/skills/c.png",
                     "title": "C++"
-                },
-                {
-                    "icon": "images/skills/mysql.png",
-                    "title": "Python"
                 }
         ]},
         {
@@ -54,12 +50,12 @@
                     "title": "Nodejs"
                 },
                 {
-                    "icon": "images/skills/nodejs.png",
+                    "icon": "images/skills/cakephp.png",
                     "title": "CakePhP"
                 },
                 {
-                    "icon": "images/skills/nodejs.png",
-                    "title": "Synfony"
+                    "icon": "images/skills/symfony.png",
+                    "title": "Symfony"
                 },
                 {
                     "icon": "images/skills/nodejs.png",
