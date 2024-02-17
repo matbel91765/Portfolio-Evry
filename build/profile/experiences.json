@@ -1,0 +1,51 @@
+{
+    "experiences": [
+        {
+            "title": "Alternance",
+            "subtitle": "ADPT",
+            "workType": "Développeur Web",
+            "workDescription": [
+                "Développement d'un site internet afin de promouvoir l'association",
+                "Développement d’un système de messagerie afin de traiter les demandes depuis le site internet",
+                "Gestion de base de donnée",
+                "Développement d’un logiciel de traitement des dossiers de l’association"
+            ],
+            "dateText": "10/2022 – 03/2023"
+        },
+        {
+            "title": "Freelance",
+            "subtitle": "Développeur",
+            "workType": "Freelance",
+            "workDescription": [
+                "Développement d’application mobile ('Tâches du jour', 'Mes Courses', 'Réveil')",
+                "Développement de site web ('ElectroShopping', site de streaming)",
+                "Développement de jeux mobiles ('Echecs')"
+            ],
+            "dateText": "10/2022 – 03/2023"
+        },
+        {
+            "title": "Stage BTS de deuxième année",
+            "subtitle": "Apsulis",
+            "workType": "Développeur Web",
+            "workDescription": [
+                "Refonte du site internet 'APMC'.",
+                "Intégration d'outils d'analyse de traffic",
+                "Mise en valeur du site par rapport à ses concurrents",
+                "Intégration continu",
+                "Gestion de base de données",
+                "Maintenance informatique"
+            ],
+            "dateText": "01/2022 – 03/2022"
+        },
+        {
+            "title": "Stage BTS de première année",
+            "subtitle": "Le Panier Garni",
+            "workType": "Développeur Web",
+            "workDescription": [
+                "Développement d'un site internet afin de promouvoir l'entreprise",
+                "Intégration d'un CRUD afin de facilité l'utilisation du site"
+            ],
+            "dateText": "06/2021 – 07/2021"
+        }
+    ]
+}

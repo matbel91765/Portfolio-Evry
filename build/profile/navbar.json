@@ -1,0 +1,39 @@
+{
+    "logo" : {
+        "source": "images/logo.png",
+        "height" : 45,
+        "width" : 50
+    },
+    "sections": [
+        {
+            "title": "Accueil",
+            "href": "/"
+        },
+        {
+            "title": "A propos",
+            "href": "/about"
+        },
+        {
+            "title": "Compétence",
+            "href": "/skills"
+        },
+        {
+            "title": "Diplôme",
+            "href": "/education"
+        },
+        {
+            "title": "Expérience",
+            "href": "/experience"
+        },
+        {
+            "title": "Projet",
+            "href": "/projects"
+        },
+        {
+            "title": "CV",
+            "href": "https://drive.google.com/file/d/1_jNmrfJFavCrbJSTYWEL94dgYooga8Qv/view?usp=sharing",
+            "type": "link"
+        }
+    ]
+
+}
