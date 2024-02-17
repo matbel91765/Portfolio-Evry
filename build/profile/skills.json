@@ -58,11 +58,11 @@
                     "title": "Symfony"
                 },
                 {
-                    "icon": "images/skills/nodejs.png",
+                    "icon": "images/skills/unity.png",
                     "title": "Unity3D"
                 }, 
                 {
-                    "icon": "images/skills/nodejs.png",
+                    "icon": "images/skills/unrealengine.png",
                     "title": "Unreal Engine"
                 }
             ]
@@ -83,11 +83,11 @@
                     "title": "Docker"
                 },
                 {
-                    "icon": "images/skills/docker.png",
+                    "icon": "images/skills/ocs.png",
                     "title": "OCSInventory"
                 },
                 {
-                    "icon": "images/skills/docker.png",
+                    "icon": "images/skills/glpi.png",
                     "title": "GLPI"
                 }
             ]
