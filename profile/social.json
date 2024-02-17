@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://fr.linkedin.com/in/mathis-belouar-pruvot-303b7a235"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/matbel91765"
+        },
+        {
+            "network" : "email",
+            "href": "matbel91765@gmail.com"
+        }
+    ]
+}
