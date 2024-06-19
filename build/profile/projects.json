@@ -1,31 +1,34 @@
 {
-    "projects" : [
+    "projects": [
         {
-            "title": "Extension VSCode - Clocking Timer",
-            "bodyText": "- Un extension VSCode en **TypeScript** permettant de connaitre le nombre d'heure passé à travailler sur un projet sur Visual Studio Code.",
+            "image": "images/projects/clocking.png",
+            "title": "VSCode Extension - Clocking Timer",
+            "bodyText": "- A VSCode extension in **TypeScript** that allows you to know the number of hours spent working on a project on Visual Studio Code.",
             "links": [
                 {
                     "text": "GitHub",
                     "href": "https://github.com/matbel91765/clockingtimer"
                 }
             ],
-            "tags" : [
+            "tags": [
                 "TypeScript"
             ]
         },
         {
-            "title": "Application Beroli",
-            "bodyText": "- C'est une application permettant à des entreprises de commander des repas italiens pour la France et la Belgique.",
-            "tags" : [
+            "image": "images/projects/beroli.png",
+            "title": "Beroli Application",
+            "bodyText": "- An application that allows companies to order Italian meals for France and Belgium.",
+            "tags": [
                 "Flutter",
                 "Android",
                 "Dart"
             ]
         },
         {
+            "image": "images/projects/adpt.png",
             "title": "Aides et Démarches Pour Tous",
-            "bodyText": "- C'est un site web réalisée en **React**\n - Le site dispose d'un Back Office de haute qualité permetttant l'accès à différentes fonctionnalités.\n - Utilisation de PostGreeSQL pour la base de données.\n - Un système d'adhésion à l'association via Stripe est également disponible pour les utilisateurs.",
-            "tags" : [
+            "bodyText": "- A website built with **React**\n - The site features a high-quality Back Office with access to various functionalities.\n - PostGreeSQL is used for the database.\n - A membership system via Stripe is also available for users.",
+            "tags": [
                 "React",
                 "PostGreeSQL",
                 "Stripe",
@@ -34,8 +37,8 @@
         },
         {
             "title": "DMENT",
-            "bodyText": "- Application web utilisant l'intelligence artificielle pour lire et discutez sur des documents.",
-            "tags" : [
+            "bodyText": "- A web application using artificial intelligence to read and discuss documents.",
+            "tags": [
                 "Kotlin",
                 "Android",
                 "MVVM",
@@ -44,6 +47,17 @@
                 "Flow",
                 "Hilt-Dagger",
                 "NetworkBoundResource"
+            ]
+        },
+        {
+            "image": "images/projects/apmc.png",
+            "title": "APMC",
+            "bodyText": "- A website built for a dog breeder who wanted to redesign his website to improve visibility.",
+            "tags": [
+                "Vs Code",
+                "Github",
+                "Slack",
+                "Tailwind"
             ]
         }
     ]

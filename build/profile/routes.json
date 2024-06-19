@@ -3,17 +3,17 @@
         {
             "component": "About",
             "path": "/about",
-            "headerTitle": "A propos de moi"
+            "headerTitle": "About Me"
         },
         {
             "component": "Skills",
             "path": "/skills",
-            "headerTitle": "Compétences"
+            "headerTitle": "Skills"
         },
         {
             "component": "Education",
             "path": "/education",
-            "headerTitle": "Formation"
+            "headerTitle": "Education"
         },
         {
             "component": "Experience",
