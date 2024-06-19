@@ -1,6 +1,7 @@
 {
     "projects" : [
         {
+            "image" : "images/projects/clocking.png",
             "title": "Extension VSCode - Clocking Timer",
             "bodyText": "- Un extension VSCode en **TypeScript** permettant de connaitre le nombre d'heure passé à travailler sur un projet sur Visual Studio Code.",
             "links": [
@@ -14,6 +15,7 @@
             ]
         },
         {
+            "image" : "images/projects/beroli.png",
             "title": "Application Beroli",
             "bodyText": "- C'est une application permettant à des entreprises de commander des repas italiens pour la France et la Belgique.",
             "tags" : [
@@ -23,6 +25,7 @@
             ]
         },
         {
+            "image" : "images/projects/adpt.png",
             "title": "Aides et Démarches Pour Tous",
             "bodyText": "- C'est un site web réalisée en **React**\n - Le site dispose d'un Back Office de haute qualité permetttant l'accès à différentes fonctionnalités.\n - Utilisation de PostGreeSQL pour la base de données.\n - Un système d'adhésion à l'association via Stripe est également disponible pour les utilisateurs.",
             "tags" : [
@@ -44,6 +47,17 @@
                 "Flow",
                 "Hilt-Dagger",
                 "NetworkBoundResource"
+            ]
+        },
+        {
+            "image" : "images/projects/apmc.png",
+            "title": "APMC",
+            "bodyText": "- Site web réalisé pour un éléveur canin qui souhaitait refaire son site web afin d'améliorer sa visibilité.",
+            "tags" : [
+                "Vs Code",
+                "Github",
+                "Slack",
+                "Tailwind"
             ]
         }
     ]
