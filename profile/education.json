@@ -1,25 +1,25 @@
 {
-    "education":[
+    "education": [
         {
             "title": "Sept. 2023 - Sept. 2024",
-            "cardTitle": "Licence professionnelle Métier de l'informatique: Application Web",
-            "cardSubtitle":"IUT Evry, Evry",
-            "cardDetailedText": "En cours",
-            "icon" : {
+            "cardTitle": "Professional Degree in IT: Web Application",
+            "cardSubtitle": "IUT Evry, Evry",
+            "cardDetailedText": "In progress",
+            "icon": {
                 "src": "images/education/lorem-ipsum.png"
             }
         },
         {
-            "title": "Septembre 2020 - Juin 2022",
-            "cardTitle": "BTS Services informatiques aux organisations",
-            "cardSubtitle":"Lycée Saint-Paul Bourdon Blanc, Orléans",
-            "cardDetailedText": "Mention Assez-Bien"
+            "title": "September 2020 - June 2022",
+            "cardTitle": "BTS in IT Services for Organizations",
+            "cardSubtitle": "Saint-Paul Bourdon Blanc High School, Orléans",
+            "cardDetailedText": "With honors"
         },
         {
-            "title": "Septembre 2017 - Juin 2020",
-            "cardTitle": "Bac STMG (Sciences et technologies du management) option Gestion-Finance",
-            "cardSubtitle":"Institution du Sacré-Coeur, La Ville du Bois",
-            "cardDetailedText": "Mention Assez-Bien"
+            "title": "September 2017 - June 2020",
+            "cardTitle": "STMG Baccalaureate (Management Science and Technology) with Finance option",
+            "cardSubtitle": "Sacred Heart Institution, La Ville du Bois",
+            "cardDetailedText": "With honors"
         }
     ]
 }

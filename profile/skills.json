@@ -1,10 +1,9 @@
 {
-    "intro": "J'aime apprendre de nouvelles choses et d'expérimenter de nouvelles technologies.\nVoici, quelques languages, outils et plateformes que j'ai utilisé :",
-    "skills": [{
-     
+    "intro": "I love learning new things and experimenting with new technologies.\nHere are some languages, tools, and platforms that I have used:",
+    "skills": [
+        {
             "title": "Languages & Databases",
-            "items" : [
-     
+            "items": [
                 {
                     "icon": "images/skills/java.png",
                     "title": "Java"
@@ -33,10 +32,11 @@
                     "icon": "images/skills/c.png",
                     "title": "C++"
                 }
-        ]},
+            ]
+        },
         {
             "title": "Frameworks & Technologies",
-            "items" : [
+            "items": [
                 {
                     "icon": "images/skills/android_new.png",
                     "title": "Android"
@@ -51,7 +51,7 @@
                 },
                 {
                     "icon": "images/skills/cakephp.png",
-                    "title": "CakePhP"
+                    "title": "CakePHP"
                 },
                 {
                     "icon": "images/skills/symfony.png",
@@ -60,7 +60,7 @@
                 {
                     "icon": "images/skills/unity.png",
                     "title": "Unity3D"
-                }, 
+                },
                 {
                     "icon": "images/skills/unrealengine.png",
                     "title": "Unreal Engine"
@@ -68,7 +68,7 @@
             ]
         },
         {
-            "title" : "Tools & Platforms",
+            "title": "Tools & Platforms",
             "items": [
                 {
                     "icon": "images/skills/android-studio.png",
@@ -91,5 +91,6 @@
                     "title": "GLPI"
                 }
             ]
-    }
-]}
+        }
+    ]
+}

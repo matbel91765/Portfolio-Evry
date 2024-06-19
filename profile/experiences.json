@@ -1,49 +1,49 @@
 {
     "experiences": [
         {
-            "title": "Alternance",
+            "title": "Work-Study",
             "subtitle": "ADPT",
-            "workType": "Développeur Web",
+            "workType": "Web Developer",
             "workDescription": [
-                "Développement d'un site internet afin de promouvoir l'association",
-                "Développement d’un système de messagerie afin de traiter les demandes depuis le site internet",
-                "Gestion de base de donnée",
-                "Développement d’un logiciel de traitement des dossiers de l’association"
+                "Developing a website to promote the association",
+                "Developing a messaging system to handle requests from the website",
+                "Database management",
+                "Developing software to process the association's files"
             ],
             "dateText": "10/2022 – 03/2023"
         },
         {
             "title": "Freelance",
-            "subtitle": "Développeur",
+            "subtitle": "Developer",
             "workType": "Freelance",
             "workDescription": [
-                "Développement d’application mobile ('Tâches du jour', 'Mes Courses', 'Réveil')",
-                "Développement de site web ('ElectroShopping', site de ecommerce)",
-                "Développement de jeux mobiles ('Echecs')"
+                "Developing mobile applications ('Daily Tasks', 'My Shopping', 'Alarm Clock')",
+                "Developing websites ('ElectroShopping', an ecommerce site)",
+                "Developing mobile games ('Chess')"
             ],
             "dateText": "10/2022 – 03/2023"
         },
         {
-            "title": "Stage BTS de deuxième année",
+            "title": "Second Year BTS Internship",
             "subtitle": "Apsulis",
-            "workType": "Développeur Web",
+            "workType": "Web Developer",
             "workDescription": [
-                "Refonte du site internet 'APMC'.",
-                "Intégration d'outils d'analyse de traffic",
-                "Mise en valeur du site par rapport à ses concurrents",
-                "Intégration continu",
-                "Gestion de base de données",
-                "Maintenance informatique"
+                "Redesigning the 'APMC' website.",
+                "Integrating traffic analysis tools",
+                "Enhancing the website compared to its competitors",
+                "Continuous integration",
+                "Database management",
+                "IT maintenance"
             ],
             "dateText": "01/2022 – 03/2022"
         },
         {
-            "title": "Stage BTS de première année",
+            "title": "First Year BTS Internship",
             "subtitle": "Le Panier Garni",
-            "workType": "Développeur Web",
+            "workType": "Web Developer",
             "workDescription": [
-                "Développement d'un site internet afin de promouvoir l'entreprise",
-                "Intégration d'un CRUD afin de facilité l'utilisation du site"
+                "Developing a website to promote the company",
+                "Integrating a CRUD system to facilitate the use of the site"
             ],
             "dateText": "06/2021 – 07/2021"
         }
